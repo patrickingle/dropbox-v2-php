@@ -1,10 +1,10 @@
 {
-  "name": "alorel/dropbox-v2-php",
+  "name": "patrickingle/dropbox-v2-php",
   "description": "A PHP SDK for Dropbox's v2 API",
   "prefer-stable": true,
   "type": "library",
   "license": "Apache-2.0",
-  "homepage": "https://github.com/Alorel/dropbox-v2-php",
+  "homepage": "https://github.com/patrickingle/dropbox-v2-php",
   "keywords": [
     "PHP",
     "Dropbox",
@@ -13,14 +13,14 @@
   ],
   "authors": [
     {
-      "name": "Art",
-      "email": "a.molcanovas@gmail.com",
+      "name": "Patrick Ingle",
+      "email": "me@patrickingle.info",
       "role": "Developer",
-      "homepage": "https://github.com/Alorel"
+      "homepage": "https://patrickingle.info"
     }
   ],
   "support": {
-    "issues": "https://github.com/Alorel/dropbox-v2-php/issues"
+    "issues": "https://github.com/patrickingle/dropbox-v2-php/issues"
   },
   "require": {
     "guzzlehttp/guzzle": "^6.0",
@@ -29,7 +29,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Alorel\\Dropbox\\": "src"
+      "patrickingle\\Dropbox\\": "src"
     }
   },
   "require-dev": {
